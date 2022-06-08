@@ -1,0 +1,1 @@
+text pe care clientul urmeaza sa il copieze...;
